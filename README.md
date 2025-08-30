@@ -1,0 +1,1 @@
+# This repository contains a collection of small frontend projects built using HTML, CSS, and JavaScript. The goal of this repo is to practice and improve core web development skills by creating interactive and visually appealing mini-projects.
